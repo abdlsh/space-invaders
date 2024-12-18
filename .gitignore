@@ -1,0 +1,10 @@
+*
+!.gitignore
+!src/
+!src/*
+!src/main/*
+!src/main/java/*
+!src/main/java/ca/*
+!src/main/java/ca/abdullahs/*
+!src/main/java/ca/abdullahs/gui_game/*
+!src/main/resources/*
